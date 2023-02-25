@@ -29,7 +29,7 @@ export default function HomePage() {
 
     return (
         <div>
-            <Header title="Make it possible with Kozqkurq." />
+            <Header title="Make it possible with Kozqkurq.2" />
 
             <RenderList members={members} />
             <button onClick={handleClick}>Likes ({likes})</button>
